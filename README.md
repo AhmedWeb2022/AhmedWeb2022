@@ -46,8 +46,8 @@
 
   <br/>
   <p align="left">
-    <a href="https://github.com/AhmedWeb2022/github-readme-stats"><img alt="Ahmed waheed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedWeb2022&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AhmedWeb2022/github-readme-stats"><img alt="Ahmed Waheed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedWeb2022&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AhmedWeb2022/github-readme-stats"><img width="47%" alt="Ahmed waheed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedWeb2022&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AhmedWeb2022/github-readme-stats"><img width="47%" alt="Ahmed Waheed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedWeb2022&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
