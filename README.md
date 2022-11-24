@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking for collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My LinkedIn](www.linkedin.com/in/ahmed-waheed43)**
 
@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Conatct  me:
 
 <p align="left">
 
